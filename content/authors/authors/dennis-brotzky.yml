@@ -1,12 +1,8 @@
-name: Dennis Brotzky
+name: Péter Péterdi
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: ./avatars/dennis-brotzky.jpg
+  My Bio.
+avatar: ./avatars/me.png
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://www.linkedin.com/in/peter-peterdi-09896768/
+  - url: https://github.com/pterdi
 featured: true
