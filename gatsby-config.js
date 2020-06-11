@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Péter Péterdi`,
+    name: `Péter Péterdi`,
+    siteUrl: `https://cranky-kowalevski-f221bb.netlify.app/`,
+    description: `A blog about data.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to my blog, where I share data stories.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: ``,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/pterdi`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: ``,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/peter-peterdi-09896768//`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: ``,
       },
     ],
   },
