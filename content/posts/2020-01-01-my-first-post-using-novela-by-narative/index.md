@@ -115,33 +115,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
-import React, { Component } from "react";  
-import tableau from "tableau-api";  
-  
-  
-class Test extends Component {  
-  componentDidMount() {  
-    this.initViz()  
-  }  
-  
-  
-  initViz() {  
-    const vizUrl = "https://public.tableau.com/views/TheStampsinmyPassport/TheStampsinmyPassport?:display_count=y&mobile=&:origin=viz_share_link";  
-    const vizContainer = this.vizContainer;  
-    let viz = new window.tableau.Viz(vizContainer, vizUrl)  
-  }  
-  
-  
-  render() {  
-    return (  
-      <div ref={(div) => { this.vizContainer = div }}>  
-      </div>  
-    )  
-  }  
-}  
-  
-  
-export default Test;  
 
 ## Horizontal Rule
 
