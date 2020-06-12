@@ -9,7 +9,7 @@ excerpt: With the growing community interest in Gatsby, we hope to create more r
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 ## Headers
-<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/poldham#!/vizhome/MySecretPlanforWorldDomination/Historia1?publish=yes"/>
+
 # H1
 
 It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
