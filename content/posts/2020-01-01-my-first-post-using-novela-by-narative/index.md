@@ -9,7 +9,9 @@ excerpt: With the growing community interest in Gatsby, we hope to create more r
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 ## Headers
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6wySyBl9KvU
+" target="_blank"><img src="http://img.youtube.com/vi/6wySyBl9KvU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 # H1
 
 It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
