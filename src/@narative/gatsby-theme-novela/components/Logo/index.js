@@ -36,6 +36,7 @@ export default function Logo({ fill }) {
               fill="#f99e2f"/>
         <path d="M385.291,267.335L385.291,303.529L388.767,305.482L388.767,269.288L385.291,267.335Z"
               fill="#fdb82c"/>
+        <text fill={fill} fontSize="32.353" fontWeight="700" x="59.6" y="37.601" fontFamily="OldStandardTT-Bold">PÉTER PÉTERDI</text>
       </g>
     </svg>
   );
