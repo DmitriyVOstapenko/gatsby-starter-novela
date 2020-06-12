@@ -1,4 +1,4 @@
-import React from 'react';
+##import React from 'react';
 
 /**
  * Paste in your SVG logo and return it from this component.
